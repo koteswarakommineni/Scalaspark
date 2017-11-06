@@ -1,0 +1,5 @@
+package standardscala
+
+class ParallelCollections {
+
+}
